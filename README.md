@@ -113,7 +113,7 @@ downloads/
 
 ---
 
-## ❤️ تشکر و قدردانی
+## ❤️ تشکر و قدردان
 
 ایده اولیه رو از ریپوی عالی [github-sandbox](https://github.com/maanimis/github-sandbox) گرفتم. ممنون از ایده خلاقانه‌شون!
 
